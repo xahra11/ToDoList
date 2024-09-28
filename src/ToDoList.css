@@ -1,0 +1,22 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    text-align: center;
+    color: green;
+}
+h2 {
+    color: green;
+  }
+#ToDoList {
+    padding: 5%;
+}
+#input {
+    padding: 5%;
+}
+#avatar {
+    padding: 5%;
+}
+#island {
+    padding: 5%;
+}
